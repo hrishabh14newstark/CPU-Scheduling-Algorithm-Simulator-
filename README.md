@@ -113,7 +113,7 @@ cpu-scheduling-simulator/
 Requires Python 3.7+, no external dependencies.
 
 ```bash
-git clone https://github.com/hrishabh14newstark/cpu-scheduling-simulator.git
+git clone https://github.com/hrishabh14newstark/CPU-Scheduling-Algorithm-Simulator-
 cd cpu-scheduling-simulator
 python scheduler.py --list
 ```
